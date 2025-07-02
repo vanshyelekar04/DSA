@@ -14,24 +14,18 @@ public:
         if(!head || !head->next){
             return nullptr;
         }
-        int size=0;
-        ListNode* temp = head;
-        while(temp){
-            temp=temp->next;
-            size++;
+        ListNode* fast = head;
+        for(int i=0;i<n;i++){
+            fast = fast->next;
         }
-        if(size==n){
-            ListNode* newHead = head->next;
-            delete head;
-            return newHead;
+        if(fast==nullptr) return head->next;
+        ListNode* slow = head;
+        while(fast->next!=nullptr){
+            slow=slow->next;
+            fast=fast->next;
         }
-        int rem = size-n;
-        temp = head;
-        while(--rem){
-            temp = temp->next;
-        }
-        ListNode* delNode = temp->next;
-        temp->next = temp->next->next;
+        ListNode* delNode = slow->next;
+        slow->next = slow->next->next;
         delete(delNode);
         return head;
     }
