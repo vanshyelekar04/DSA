@@ -1,26 +1,26 @@
 class Solution {
 public:
 
-    void helperFun(int index, vector<int>& arr, int target, vector<vector<int>>& ans, vector<int>&ds){
+    void helperFunc(int index, vector<vector<int>>& ans, vector<int>& ds, vector<int>& arr, int target){
         if(index == arr.size()){
             if(target == 0){
                 ans.push_back(ds);
             }
             return;
         }
+
         if(arr[index]<=target){
             ds.push_back(arr[index]);
-            helperFun(index, arr, target - arr[index], ans, ds);
+            helperFunc(index, ans, ds, arr, target - arr[index]);
             ds.pop_back();
         }
-        helperFun(index + 1, arr, target, ans, ds);
+        helperFunc(index+1, ans, ds, arr, target);
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
         vector<int> ds;
-        sort(candidates.begin(), candidates.end());
-        helperFun(0, candidates, target, ans, ds);
+        helperFunc(0, ans, ds, candidates, target);
         return ans;
     }
 };
