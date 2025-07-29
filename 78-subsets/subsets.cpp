@@ -1,20 +1,18 @@
 class Solution {
 public:
-    void sub(int idx, int n, vector<int>& nums, vector<int>& current,
-             vector<vector<int>>& result) {
-        if (idx >= n) {
-            result.push_back(current);
-            return;
-        }
-        current.push_back(nums[idx]);
-        sub(idx + 1, n, nums, current, result);
-        current.pop_back();
-        sub(idx + 1, n, nums, current, result);
-    }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> result;
-        vector<int> current;
-        sub(0, nums.size(), nums, current, result);
-        return result;
+        vector<vector<int>> ans;
+        int n = nums.size();
+        int subsets = 1<<n;
+        for(int i = 0;i<subsets;i++){
+            vector<int> subsetList;
+            for(int j=0;j<n;j++){
+                if(i&(1<<j)){
+                    subsetList.push_back(nums[j]);
+                }
+            }
+            ans.push_back(subsetList);
+        }
+        return ans;
     }
 };
