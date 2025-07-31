@@ -1,26 +1,24 @@
 class Solution {
 public:
-
-    void helperFunc(int index, vector<vector<int>>& ans, vector<int>& ds, vector<int>& arr, int target){
-        if(index == arr.size()){
-            if(target == 0){
-                ans.push_back(ds);
+    void helper(int index, int target, vector<int>& arr, vector<int>& current,
+                vector<vector<int>>& result) {
+        if (index == arr.size()) {
+            if (target == 0) {
+                result.push_back(current);
             }
             return;
         }
-
-        if(arr[index]<=target){
-            ds.push_back(arr[index]);
-            helperFunc(index, ans, ds, arr, target - arr[index]);
-            ds.pop_back();
+        if (arr[index] <= target) {
+            current.push_back(arr[index]);
+            helper(index, target - arr[index], arr, current, result);
+            current.pop_back();
         }
-        helperFunc(index+1, ans, ds, arr, target);
+        helper(index + 1, target, arr, current, result);
     }
-
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
-        vector<int> ds;
-        helperFunc(0, ans, ds, candidates, target);
-        return ans;
+        vector<vector<int>> result;
+        vector<int> current;
+        helper(0, target, candidates, current, result);
+        return result;
     }
 };
