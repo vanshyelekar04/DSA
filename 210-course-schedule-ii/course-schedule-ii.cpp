@@ -1,31 +1,31 @@
 class Solution {
 public:
-bool dfsCheck(int node, vector<vector<int>>& adj, vector<int>& vis, vector<int>& pathVis, vector<int>& ans){
-    vis[node] = 1;
-    pathVis[node] = 1;
-    for(auto it:adj[node]){
-        if(!vis[it]){
-            if(dfsCheck(it,adj, vis, pathVis, ans)) return true;
-        }else if(pathVis[it]){
-            return true;
+    bool dfs(int node, vector<int>& vis, vector<int>& pathVis, vector<vector<int>>& adj, vector<int>& ans){
+        vis[node] = 1;
+        pathVis[node] = 1;
+        for(auto it:adj[node]){
+            if(!vis[it]){
+                if(dfs(it, vis, pathVis, adj, ans)) return true;
+            }else if(pathVis[it]){
+                return true;
+            }
         }
+        pathVis[node]=0;
+        ans.push_back(node);
+        return false;
     }
-    pathVis[node] = 0;
-    ans.push_back(node);
-    return false;
-}
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        for (auto& pre : prerequisites) {
-            adj[pre[1]].push_back(pre[0]);
+        int V =  numCourses;
+        vector<vector<int>> adj(V);
+        for(auto it:prerequisites){
+            adj[it[1]].push_back(it[0]);
         }
-        vector<int> vis(numCourses, 0), pathVis(numCourses, 0);
+        vector<int> vis(V,0);
+        vector<int> pathVis(V,-1);
         vector<int> ans;
-        for(int i = 0;i<numCourses;i++){
+        for(int i=0;i<V;i++){
             if(!vis[i]){
-                if(dfsCheck(i, adj, vis, pathVis, ans)){
-                    return {};
-                }
+                if(dfs(i, vis, pathVis, adj, ans)==true) return {};
             }
         }
         reverse(ans.begin(), ans.end());
