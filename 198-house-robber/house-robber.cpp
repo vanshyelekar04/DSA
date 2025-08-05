@@ -1,12 +1,16 @@
 class Solution {
 public:
     int helper(int i, vector<int>& nums, vector<int>& dp){
-        if (i == 0) return nums[i];
         if (i<0) return 0;
-        if(dp[i]!=-1) return dp[i];
-        int left = nums[i]+ helper(i-2, nums, dp);
-        int right = helper(i-1, nums, dp);
-        return dp[i] =  max(left, right);
+        dp[0] = nums[0];
+        int neg = 0;
+        for(int i = 1; i<nums.size();i++){
+            int pick = nums[i];
+            if(i>1) pick += dp[i-2];
+            int notpick = dp[i-1];
+            dp[i] = max(pick, notpick);
+        }
+        return dp[i];
     }
     int rob(vector<int>& nums) {
         int n = nums.size();
