@@ -1,7 +1,6 @@
 class Solution {
 public:
     int helper(int i, vector<int>& nums, vector<int>& dp){
-        if (i<0) return 0;
         dp[0] = nums[0];
         int neg = 0;
         for(int i = 1; i<nums.size();i++){
