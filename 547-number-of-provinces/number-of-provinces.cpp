@@ -2,11 +2,19 @@ class Solution {
 public:
     void helper(int node, vector<vector<int>>& grid, vector<int>& vis){
         vis[node] = 1;
-        for(int i=0;i<grid.size();i++){
-            if(!vis[i] && grid[node][i]){
-                helper(i, grid, vis);
+        queue<int> q;
+        q.push(node);
+        while(!q.empty()){
+            int k = q.front();
+            q.pop();
+            for(int i=0;i<grid.size();i++){
+                if(i!=k && !vis[i] && grid[k][i]){
+                    vis[i] = 1;
+                    q.push(i);
+                }
             }
         }
+        
     }
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected.size();
