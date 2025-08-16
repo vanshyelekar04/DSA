@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vanshyelekar04/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vanshyelekar04/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/vanshyelekar04/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/vanshyelekar04/DSA/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/vanshyelekar04/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshyelekar04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/vanshyelekar04/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/vanshyelekar04/DSA/tree/master/0120-triangle) |
 | [0967-minimum-falling-path-sum](https://github.com/vanshyelekar04/DSA/tree/master/0967-minimum-falling-path-sum) |
 ## Matrix
