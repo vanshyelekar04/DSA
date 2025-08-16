@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/vanshyelekar04/DSA/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/vanshyelekar04/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshyelekar04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/vanshyelekar04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0967-minimum-falling-path-sum](https://github.com/vanshyelekar04/DSA/tree/master/0967-minimum-falling-path-sum) |
 ## Dynamic Programming
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vanshyelekar04/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vanshyelekar04/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshyelekar04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vanshyelekar04/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vanshyelekar04/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
