@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vanshyelekar04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/vanshyelekar04/DSA/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/vanshyelekar04/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vanshyelekar04/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/vanshyelekar04/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/vanshyelekar04/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vanshyelekar04/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshyelekar04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/vanshyelekar04/DSA/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vanshyelekar04/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
 | ------- |
