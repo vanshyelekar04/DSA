@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vanshyelekar04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/vanshyelekar04/DSA/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/vanshyelekar04/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/vanshyelekar04/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/vanshyelekar04/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vanshyelekar04/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vanshyelekar04/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/vanshyelekar04/DSA/tree/master/0069-sqrtx) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/vanshyelekar04/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/vanshyelekar04/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vanshyelekar04/DSA/tree/master/0493-reverse-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/vanshyelekar04/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
