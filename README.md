@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vanshyelekar04/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/vanshyelekar04/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vanshyelekar04/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vanshyelekar04/DSA/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/vanshyelekar04/DSA/tree/master/0493-reverse-pairs) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vanshyelekar04/DSA/tree/master/0069-sqrtx) |
 | [3227-find-missing-and-repeated-values](https://github.com/vanshyelekar04/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
