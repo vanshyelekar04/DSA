@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/vanshyelekar04/DSA/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/vanshyelekar04/DSA/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/vanshyelekar04/DSA/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/vanshyelekar04/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshyelekar04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshyelekar04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0967-minimum-falling-path-sum](https://github.com/vanshyelekar04/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vanshyelekar04/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vanshyelekar04/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vanshyelekar04/DSA/tree/master/0162-find-peak-element) |
+| [0493-reverse-pairs](https://github.com/vanshyelekar04/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshyelekar04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vanshyelekar04/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/vanshyelekar04/DSA/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -84,4 +87,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vanshyelekar04/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/vanshyelekar04/DSA/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vanshyelekar04/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vanshyelekar04/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vanshyelekar04/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
