@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vanshyelekar04/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vanshyelekar04/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/vanshyelekar04/DSA/tree/master/0069-sqrtx) |
 | [3227-find-missing-and-repeated-values](https://github.com/vanshyelekar04/DSA/tree/master/3227-find-missing-and-repeated-values) |
