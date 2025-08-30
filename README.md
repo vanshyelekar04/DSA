@@ -128,19 +128,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/vanshyelekar04/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vanshyelekar04/DSA/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/vanshyelekar04/DSA/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/vanshyelekar04/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vanshyelekar04/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vanshyelekar04/DSA/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/vanshyelekar04/DSA/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/vanshyelekar04/DSA/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vanshyelekar04/DSA/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/vanshyelekar04/DSA/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vanshyelekar04/DSA/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/vanshyelekar04/DSA/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
