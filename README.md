@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vanshyelekar04/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/vanshyelekar04/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshyelekar04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/vanshyelekar04/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshyelekar04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/vanshyelekar04/DSA/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/vanshyelekar04/DSA/tree/master/0907-koko-eating-bananas) |
@@ -31,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vanshyelekar04/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/vanshyelekar04/DSA/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/vanshyelekar04/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/vanshyelekar04/DSA/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/vanshyelekar04/DSA/tree/master/0967-minimum-falling-path-sum) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/vanshyelekar04/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vanshyelekar04/DSA/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/vanshyelekar04/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/vanshyelekar04/DSA/tree/master/1036-rotting-oranges) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/vanshyelekar04/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vanshyelekar04/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vanshyelekar04/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/vanshyelekar04/DSA/tree/master/1036-rotting-oranges) |
