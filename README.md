@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vanshyelekar04/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vanshyelekar04/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vanshyelekar04/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/vanshyelekar04/DSA/tree/master/0037-sudoku-solver) |
 | [0056-merge-intervals](https://github.com/vanshyelekar04/DSA/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vanshyelekar04/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vanshyelekar04/DSA/tree/master/0088-merge-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vanshyelekar04/DSA/tree/master/0037-sudoku-solver) |
 | [0542-01-matrix](https://github.com/vanshyelekar04/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vanshyelekar04/DSA/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/vanshyelekar04/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vanshyelekar04/DSA/tree/master/0037-sudoku-solver) |
 | [0229-majority-element-ii](https://github.com/vanshyelekar04/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshyelekar04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/vanshyelekar04/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/vanshyelekar04/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/vanshyelekar04/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/vanshyelekar04/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
