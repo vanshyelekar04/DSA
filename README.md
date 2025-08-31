@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vanshyelekar04/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/vanshyelekar04/DSA/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/vanshyelekar04/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/vanshyelekar04/DSA/tree/master/1250-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/vanshyelekar04/DSA/tree/master/0210-course-schedule-ii) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/vanshyelekar04/DSA/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
