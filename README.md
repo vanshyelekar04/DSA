@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vanshyelekar04/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/vanshyelekar04/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
