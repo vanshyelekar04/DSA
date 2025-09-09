@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vanshyelekar04/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vanshyelekar04/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/vanshyelekar04/DSA/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/vanshyelekar04/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vanshyelekar04/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vanshyelekar04/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/vanshyelekar04/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/vanshyelekar04/DSA/tree/master/0070-climbing-stairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/vanshyelekar04/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/vanshyelekar04/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vanshyelekar04/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vanshyelekar04/DSA/tree/master/0234-palindrome-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vanshyelekar04/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
