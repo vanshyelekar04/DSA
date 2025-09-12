@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vanshyelekar04/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/vanshyelekar04/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vanshyelekar04/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/vanshyelekar04/DSA/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/vanshyelekar04/DSA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vanshyelekar04/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vanshyelekar04/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vanshyelekar04/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/vanshyelekar04/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/vanshyelekar04/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vanshyelekar04/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vanshyelekar04/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vanshyelekar04/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vanshyelekar04/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vanshyelekar04/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/vanshyelekar04/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/vanshyelekar04/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vanshyelekar04/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vanshyelekar04/DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vanshyelekar04/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/vanshyelekar04/DSA/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/vanshyelekar04/DSA/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vanshyelekar04/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/vanshyelekar04/DSA/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/vanshyelekar04/DSA/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
