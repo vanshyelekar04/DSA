@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/vanshyelekar04/DSA/tree/master/1036-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshyelekar04/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vanshyelekar04/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1920-build-array-from-permutation](https://github.com/vanshyelekar04/DSA/tree/master/1920-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/vanshyelekar04/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/vanshyelekar04/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vanshyelekar04/DSA/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/vanshyelekar04/DSA/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
